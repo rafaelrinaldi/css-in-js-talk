@@ -1,0 +1,17 @@
+/* npm installed dependency */
+@import '@workco/normalize.css';
+
+/* local dependency */
+@import './components/buttons/Button';
+
+.MyComponent {}
+
+/* State */
+.MyComponent.is-animating {}
+
+/* Modifier */
+.MyComponent--modifier {}
+
+/* Sub elements (children) */
+.MyComponent-part {}
+.MyComponent-anotherPart {}

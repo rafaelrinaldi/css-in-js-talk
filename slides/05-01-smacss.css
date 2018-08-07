@@ -1,0 +1,21 @@
+/* Base */
+body { background-color: #bada55 }
+
+/* State */
+.button.is-disabled { /* prefixed with `is` */
+  cursor: not-allowed;
+  background: lightgray;
+  opacity: 0.75;
+}
+
+/* Layout */
+#sidebar {
+  font-size: 0.75rem;
+  color: gold;
+  float: right;
+}
+
+.l-inverse #sidebar { float: left } /* prefixed with `l` */
+
+/* Module */
+.no-padding { padding: 0 }
