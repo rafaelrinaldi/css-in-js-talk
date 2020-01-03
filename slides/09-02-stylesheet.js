@@ -1,7 +1,7 @@
 const styles = StyleSheet.create({
   container: {
     borderWidth: 0.5,
-    borderColor: '#D6D7DA'
+    borderColor: 'papayawhip'
   },
 
   title: {

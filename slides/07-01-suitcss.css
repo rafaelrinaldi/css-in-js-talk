@@ -1,5 +1,5 @@
 /* npm installed dependency */
-@import '@workco/normalize.css';
+@import '@better/normalize.css';
 
 /* local dependency */
 @import './components/buttons/Button';

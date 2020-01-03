@@ -1,6 +1,6 @@
 ## React and React Native
 
-- Designed around components
+- Components as first class citizens
 - Local state
 - The `style` prop
 - `StyleSheet` API

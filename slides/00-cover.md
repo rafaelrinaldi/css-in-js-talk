@@ -1,3 +1,3 @@
-# CSS in JS
+# CSS-in-JS
 
-> What is CSS in JS and why it might be interesting to you
+> What is CSS-in-JS and how it help us when creating UI systems

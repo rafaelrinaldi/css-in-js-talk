@@ -8,10 +8,10 @@
 - Enforces constraints specified by the system
 - Mnemonics
 - Highly modular and reusable
-- Design in the browser, no build step required
+- Design in the browser, **no build step required**
 - Tachyons and Basscss
 
 ---
 
 [tachyons]: https://tachyons.io
-[rebass]: http://basscss.com
+[basscss]: http://basscss.com
