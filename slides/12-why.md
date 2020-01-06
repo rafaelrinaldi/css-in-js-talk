@@ -1,6 +1,6 @@
 ## Why
 
-> Why putting the effort into building a proper system using CSS-in-JS
+> Why a team of soon-to-be-a-hundred might be interested in this approach
 
 - Having a design system enforces consistency and speed things up
   + No magic numbers

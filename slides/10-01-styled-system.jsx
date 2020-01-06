@@ -15,7 +15,7 @@ const Box = styled.div(
 
 const MyComponent = () => (
   <Box
-    fontSize={4}
+    fontSize={[null, 4]}
     fontWeight='bold'
     p={3} {/* Same as `padding` */}
     mb={[ 4, 5 ]} {/* Same as `marginBottom` */ }
